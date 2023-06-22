@@ -17,7 +17,7 @@ Install
 
 1. Clone this repository in oh-my-zsh's plugins directory:
 
-        git clone https://github.com/svenXY/timewarrior ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/timewarrior
+        git clone https://github.com/joobaa/timewarrior.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/timewarrior
 
 2. Activate the plugin in `~/.zshrc`:
 
