@@ -25,11 +25,8 @@ Install
 
 3. Source `~/.zshrc`  to take changes into account:
 
-        source ~/.zshrc
+        exec zsh
         
-### other zsh plugin managers
-
-Please refer to the respective documentation on how to install a plugin from guthub
 
 Usage
 ------------------------------------------------------------------------------
